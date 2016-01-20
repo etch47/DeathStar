@@ -73,6 +73,7 @@
     <Compile Include="Refinery.cs" />
     <Compile Include="SuperLaser.cs" />
     <Compile Include="Thermalexhaustport.cs" />
+    <Compile Include="Titanic.cs" />
     <Compile Include="TractorBeam.cs" />
   </ItemGroup>
   <ItemGroup>
